@@ -29,8 +29,8 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/155</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/155</meta>
 		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/155</meta>
-		<meta property="se:subject">Mystery fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">When a fabulous gem mysteriously goes missing, suspicion abounds and a hunt begins for the guilty party.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;A seminal story of the detctive novel genre, &lt;i&gt;The Moonstone&lt;/i&gt; is considered to be one of Wilkie Collins best, and well known novels.&lt;/p&gt;
@@ -39,6 +39,8 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/155</dc:source>
+		<dc:source>https://archive.org/details/156979296.1876.emory.edu</dc:source>
+		<dc:source>https://hdl.handle.net/2027/osu.32435009322033</dc:source>
 		<meta property="se:word-count">198523</meta>
 		<meta property="se:reading-ease.flesch">72.46</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moonstone</meta>
@@ -47,12 +49,13 @@
 		<meta property="file-as" refines="#author">Collins, Wilkie</meta>
 		<meta property="se:name.person.full-name" refines="#author">William Wilkie Collins</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Wilkie_Collins</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79061084.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79061084</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Anne-Louis Girodet-Trioson</dc:contributor>
 		<meta property="file-as" refines="#artist">Girodet-Trioson, Anne-Louis</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Anne-Louis_Girodet_de_Roussy-Trioson</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84058477.html</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84058477</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">John Hamm</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Hamm, John</meta>
@@ -142,7 +145,7 @@
 		<item href="text/epilogue-2.xhtml" id="epilogue-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/epilogue-3.xhtml" id="epilogue-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/prologue.xhtml" id="prologue.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
