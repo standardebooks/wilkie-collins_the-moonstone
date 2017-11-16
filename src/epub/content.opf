@@ -33,8 +33,10 @@
 		<dc:description id="description">When a fabulous gem mysteriously goes missing, suspicion abounds and a hunt begins for the guilty party.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;A seminal story of the detctive novel genre, &lt;i&gt;The Moonstone&lt;/i&gt; is considered to be one of Wilkie Collins best, and well known novels.&lt;/p&gt;
-			&lt;p&gt;
+			&lt;p&gt;The “Moonstone” of the title is a large but flawed diamond, looted from India at the time of the Mutiny by an unscrupulous British officer. Many years later, estranged from his family due to his licentious lifestyle, the officer bequeaths the diamond to his sister’s daughter, Rachel Verrinder, to be given to her on her 18th birthday. Due to the ill-omens surrounding the gem, this may have been an act of revenge rather than reconciliation. The diamond, it appears, was taken from a statue of the Moon God worshipped by a Hindu cult, and it has long been sought by a group of Brahmins determined to return it to their temple.&lt;/p&gt;
+			&lt;p&gt;On the night of the birthday party the gem mysteriously disappears from Rachel’s room. While the first suspicions naturally fall on these Indians, they are eventually exculpated. Rachel becomes hysterical and angry when questioned about the theft and refuses to assist the police. Active efforts to assist them are taken up by Rachel’s cousin (and sweetheart) Franklin Blake. These efforts simply drive Rachel into further fury, and she becomes completely estranged from him. Suspicion thus falls on her as having some secret reason for wishing to raise money on the diamond. The novel proceeds to slowly uncover the mysteries involved.&lt;/p&gt;
+			&lt;p&gt;Published in 1868, &lt;i&gt;The Moonstone&lt;/i&gt; is often considered as one of the precursors of the modern detective novel, though this is a label which would not have been used by its author Wilkie Collins and his contemporaries. While it is true that the plot revolves around the mystery of a theft, and that it features Sergeant Cuff “in the Detective Force of Scotland Yard,” the novel is much more about character and relationships than the mere revelation of secrets. It also has a good dose of Collins’ humour, as the story is told in large part by eccentric characters such as the old house-steward Gabriel Betteredge who regards &lt;i&gt;Robinson Crusoe&lt;/i&gt; as an oracle; and the ultra-religious Miss Clack, determined to convert everyone to her views.&lt;/p&gt;
+			&lt;p&gt;Immensely popular at the time of its publication in serial form, &lt;i&gt;The Moonstone&lt;/i&gt; is rightly regarded as one of Collins’ best works, and remains highly regarded today.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
@@ -66,11 +68,15 @@
 		<dc:contributor id="producer-1">Jeffrey Kinross</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kinross, Jeffrey</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">bkp</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">blw</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">mrk</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
