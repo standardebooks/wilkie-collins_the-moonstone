@@ -73,7 +73,3 @@ section > header{
 	font-variant: small-caps;
 	text-align: right;
 }
-
-section > header > h2{
-	margin-bottom: 1em; /* smaller bridgehead margins look better here */
-}
