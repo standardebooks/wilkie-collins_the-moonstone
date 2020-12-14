@@ -37,8 +37,9 @@
 	text-indent: 0;
 }
 
-[epub|type~="z3998:letter"] footer{
+footer{
 	margin-top: 1em;
+	text-align: right;
 }
 
 [epub|type~="z3998:salutation"],
