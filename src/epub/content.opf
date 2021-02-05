@@ -45,6 +45,9 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008102507</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
+		<meta property="group-position" refines="#collection-1">19</meta>
 		<dc:description id="description">When a fabulous gem mysteriously goes missing, suspicion abounds and a hunt begins for the guilty party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;The “Moonstone” of the title is a large but flawed diamond, looted from India at the time of the Mutiny by an unscrupulous British officer. Many years later, estranged from his family due to his licentious lifestyle, the officer bequeaths the diamond to his sister’s daughter, Rachel Verrinder, to be given to her on her 18th birthday. Due to the ill-omens surrounding the gem, this may have been an act of revenge rather than reconciliation. The diamond, it appears, was taken from a statue of the Moon God worshipped by a Hindu cult, and it has long been sought by a group of Brahmins determined to return it to their temple.&lt;/p&gt;
