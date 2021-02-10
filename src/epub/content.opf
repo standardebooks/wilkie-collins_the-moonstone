@@ -45,7 +45,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008102507</meta>
 		<meta property="se:subject">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">The Guardian’s best 100 novels in English (2015)</meta>
+		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">19</meta>
 		<dc:description id="description">When a fabulous gem mysteriously goes missing, suspicion abounds and a hunt begins for the guilty party.</dc:description>
