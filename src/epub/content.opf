@@ -47,7 +47,7 @@
 		<meta id="collection-1" property="belongs-to-collection">The Guardian’s Best 100 Novels in English (2015)</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">19</meta>
-		<meta id="collection-2" property="belongs-to-collection">Haycraft Queen Cornerstones</meta>
+		<meta id="collection-2" property="belongs-to-collection">Haycraft-Queen Cornerstones</meta>
 		<meta property="collection-type" refines="#collection-2">set</meta>
 		<dc:description id="description">When a fabulous gem mysteriously goes missing, suspicion abounds and a hunt begins for the guilty party.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
