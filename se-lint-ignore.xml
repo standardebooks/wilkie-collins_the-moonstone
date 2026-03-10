@@ -2,16 +2,19 @@
 <se-lint-ignore>
 	<file path="chapter-2-1-1.xhtml">
 		<ignore code="s-021">
+			<line>4</line>
 			<reason>Title is correct for the section.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-2-1.xhtml">
 		<ignore code="s-021">
+			<line>4</line>
 			<reason>Title is correct for the section.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-2-3-1.xhtml">
 		<ignore code="s-021">
+			<line>4</line>
 			<reason>Title is correct for the section.</reason>
 		</ignore>
 	</file>
