@@ -30,11 +30,11 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Moonstone</dc:title>
 		<meta property="file-as" refines="#title">Moonstone, The</meta>
-		<dc:subject id="subject-1">England -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Country homes -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Police -- England -- Fiction</dc:subject>
-		<dc:subject id="subject-4">Jewelry theft -- Fiction</dc:subject>
-		<dc:subject id="subject-5">East Indians -- England -- Fiction</dc:subject>
+		<dc:subject id="subject-1">England--Fiction</dc:subject>
+		<dc:subject id="subject-2">Country homes--Fiction</dc:subject>
+		<dc:subject id="subject-3">Police--England--Fiction</dc:subject>
+		<dc:subject id="subject-4">Jewelry theft--Fiction</dc:subject>
+		<dc:subject id="subject-5">East Indians--England--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
