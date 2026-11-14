@@ -81,8 +81,8 @@
 		<link href="https://id.loc.gov/authorities/names/n79061084.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Anne-Louis Girodet-Trioson</dc:contributor>
-		<meta property="file-as" refines="#artist">Girodet-Trioson, Anne-Louis</meta>
+		<dc:contributor id="artist">Anne-Louis Girodet Roussy-Trioson</dc:contributor>
+		<meta property="file-as" refines="#artist">Roussy-Trioson, Anne-Louis Girodet</meta>
 		<link href="https://en.wikipedia.org/wiki/Anne-Louis_Girodet_de_Roussy-Trioson" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n84058477.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
